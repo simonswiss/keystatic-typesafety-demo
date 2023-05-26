@@ -1,0 +1,14 @@
+title: My First Post
+draft: false
+id: 1
+date: '2023-05-04'
+authors:
+  - emma
+description: "This is the description field for the post. Wow —\_what a great post about GraphQL and React!"
+image: /images/posts/my-first-post/image.jpg
+tags:
+  - surfing
+  - basketball
+categories:
+  - graph-ql
+  - react

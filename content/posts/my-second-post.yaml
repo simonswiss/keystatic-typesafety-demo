@@ -1,0 +1,16 @@
+title: My Second Post
+draft: true
+id: 2
+date: '2023-05-25'
+authors:
+  - simon
+  - jed
+description: >-
+  This post is in draft mode. You can use the draft checkbox to decide whether
+  to show the post or not on your website.
+image: /images/posts/my-second-post/image.jpg
+tags:
+  - guest
+  - live stream
+categories:
+  - react
